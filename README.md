@@ -1,1 +1,1 @@
-Hi, This project is a training project on html, css, js from [Frontend Mentor](www.frontendmentor.io) I put a lot of effort into it because it was a bit of a problem and I was in a rush but it goes well, I started to get used to em and rem because it's so useful but hard to learn I hope my next project start to use it on the all project, It's a little bit hard to read the code but I was on a hurry
+Html, css and vanila javascript project from [Frontend Mentor](www.frontendmentor.io) 
